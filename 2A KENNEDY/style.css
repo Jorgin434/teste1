@@ -1,0 +1,36 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Honk&family=Inconsolata:wght@200..900&display=swap');
+    
+  
+
+
+body{
+    background-color: black;
+}
+header{
+    border-bottom: 20px solid rgb(255, 255, 255);
+    background-color:rgb(68, 4, 128);
+    font-size: 50px;
+    text-align: center;
+}
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+   header div a {
+    color: rgb(255, 255, 255);
+    font-family: "Honk", system-ui;
+    transition: color 800ms;
+     }
+
+     header div a:hover{
+        color: aqua;
+        transition: color 800ms ;
+     }
+        
+
+  
+
+
